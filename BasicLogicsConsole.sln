@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37710.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicLogicsConsole", "BasicLogicsConsole\BasicLogicsConsole.csproj", "{0BED10EE-235E-4AC2-8ED3-48578756A481}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BED10EE-235E-4AC2-8ED3-48578756A481}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BED10EE-235E-4AC2-8ED3-48578756A481}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BED10EE-235E-4AC2-8ED3-48578756A481}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BED10EE-235E-4AC2-8ED3-48578756A481}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72ED6112-7ED4-427B-8FA0-27C47AE1DE53}
+	EndGlobalSection
+EndGlobal
